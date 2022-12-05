@@ -2,4 +2,4 @@
 My first repository
 ## **My Favorite Series/Movie**
 
-Title: *I Want to Eat Your Pancreas*
+Title: ***I Want to Eat Your Pancreas***
