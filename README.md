@@ -4,7 +4,9 @@ My first repository
 
 Title: ***I Want to Eat Your Pancreas***
 
-Plot > An unnamed male high school student comes across a book in a hospital waiting room. He soon discovers that it is a diary kept by his very popular classmate Sakura Yamauchi, who reveals to him that she is secretly suffering from a fatal illness in her pancreas. Despite this, Sakura intends to maintain a normal school life and thus is drawn to him due to his relatively unfazed reaction to her condition. They begin to spend time together and become friends.
+## **Plot
+
+An unnamed male high school student comes across a book in a hospital waiting room. He soon discovers that it is a diary kept by his very popular classmate Sakura Yamauchi, who reveals to him that she is secretly suffering from a fatal illness in her pancreas. Despite this, Sakura intends to maintain a normal school life and thus is drawn to him due to his relatively unfazed reaction to her condition. They begin to spend time together and become friends.
 
 During their school break, Sakura invites him on a train trip to Fukuoka where they play truth-or-dare game and eventually share a bed in their hotel room. Afterward, Sakura's friends and classmates grow suspicious and resentful of his newfound closeness to her. The two begin doing activities from Sakura's bucket list together until she is suddenly hospitalized. During her hospitalization, the two sneak out to see fireworks together. When she gets discharged, Sakura invites him for lunch but fails to show up at their meeting place. Later that night, he learns from the news that Sakura died from a stabbing. He breaks down and does not attend her funeral.
 
